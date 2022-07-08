@@ -1,0 +1,23 @@
+#title{
+    text-align: center;
+    text-shadow: 5px 10px 6px rgb(120, 179, 202);
+    color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(202, 189, 189);
+    
+}
+#img-caption{
+    text-align: center;
+    color: rgb(208, 255, 0);
+    font-size: larger;
+}
+#tribute-info
+{
+    
+    font-size: large;
+}
+.place{
+
+    font-size: large;
+}
